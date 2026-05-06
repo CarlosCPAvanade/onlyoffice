@@ -1,0 +1,10 @@
+namespace OnlyOfficeDemo.Api.Models;
+
+public class OnlyOfficeCallback
+{
+    public string? Key { get; set; }
+    public int Status { get; set; }
+    public string? Url { get; set; }
+    public string? ChangesUrl { get; set; }
+    public object? History { get; set; }
+}

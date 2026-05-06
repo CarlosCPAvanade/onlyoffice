@@ -1,0 +1,6 @@
+{
+  "PublicBaseUrl": "http://localhost:5000",
+  "OnlyOffice": {
+    "DocumentServerUrl": "http://localhost:8080"
+  }
+}
